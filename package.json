@@ -2,10 +2,10 @@
   "name": "nft_gen",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon ./NFT/app.js"
+    "start": "node ./index.js"
   },
   "keywords": [],
   "author": "",
